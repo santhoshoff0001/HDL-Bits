@@ -6,5 +6,4 @@ module top_module(
     
     assign out_hi = in[15:8];
     assign out_lo = in[7:0];
-
 endmodule

@@ -7,4 +7,5 @@ module top_module (
 
     assign {o2,o1,o0} = vec ;
     assign outv = vec;
+    
 endmodule

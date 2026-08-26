@@ -8,5 +8,4 @@ module top_module(
     assign out_or_bitwise = b|a;
     assign out_or_logical = a||b;
     assign out_not = {~b,~a};
-
 endmodule
