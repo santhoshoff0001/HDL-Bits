@@ -28,6 +28,7 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
     * ✅ `02_connecting_ports_by_position.v`
     * ✅ `03_connecting_ports_by_name.v`
     * ✅ `04_three_modules.v`
+    * ✅ `05_modules_and_vectors.v`
   * *(More categories will be added as I progress)*
 
 ### 🎯 Goal
