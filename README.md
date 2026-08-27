@@ -29,6 +29,10 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
     * ✅ `03_connecting_ports_by_name.v`
     * ✅ `04_three_modules.v`
     * ✅ `05_modules_and_vectors.v`
+    * ✅ `06_adder_1.v`
+    * ✅ `07_adder_2.v`
+    * ✅ `08_carry_select_adder.v`
+    * ✅ `09_adder_subtractor.v`
   * *(More categories will be added as I progress)*
 
 ### 🎯 Goal
