@@ -33,6 +33,14 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
     * ✅ `07_adder_2.v`
     * ✅ `08_carry_select_adder.v`
     * ✅ `09_adder_subtractor.v`
+  * **4. Procedures**
+    * ✅ `01_AlwaysBlocks(Combinational).v`
+    * ✅ `02_AlwaysBlocks(Clocked).v`
+    * ✅ `03_If_statement.v`
+    * ✅ `04_if_statement_latches.v`
+    * ✅ `05_CaseStatement.v`
+    * ✅ `06_PriorityEncoder.v`
+    * ✅ `07_PriorityEncoderWithCasez.v`
   * *(More categories will be added as I progress)*
 
 ### 🎯 Goal
