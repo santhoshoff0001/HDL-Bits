@@ -41,6 +41,9 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
     * ✅ `05_CaseStatement.v`
     * ✅ `06_PriorityEncoder.v`
     * ✅ `07_PriorityEncoderWithCasez.v`
+    * ✅ `08_AvoidingLatches.v`
+  * **5. More Verilog Features** 
+    * ✅ `01_ConditionalTernaryOperator.v`
   * *(More categories will be added as I progress)*
 
 ### 🎯 Goal
