@@ -44,6 +44,22 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
     * ✅ `08_AvoidingLatches.v`
   * **5. More Verilog Features** 
     * ✅ `01_ConditionalTernaryOperator.v`
+    * ✅ `02_ReductionOpertaors.v`
+    * ✅ `03_Reduction:EvenWiderGates.v`
+    * ✅ `04_CombinationalForLoopVectorReversal2.v`
+    * ✅ `05_CombinationalFor-loop:255BitPopulationCount.v`
+    * ✅ `06_GenerateForLoop100bitBinaryAdder2.v`
+    * ✅ `07_GenerateForLoop100bitBCDAdder.v`
+* **2. Circuits**
+    * **1. Combinational Logic**
+      * **1. Basic Gates**
+        * ✅ `01_Wire.v`
+        * ✅ `02_GND.v`
+        * ✅ `03_NOR.v`
+        * ✅ `04_AnotherGate.v`
+        * ✅ `05_TwoGates.v`
+        * ✅ `06_MoreLogicGates.v`
+  * *(More categories will be added as I progress)*
   * *(More categories will be added as I progress)*
 
 ### 🎯 Goal
