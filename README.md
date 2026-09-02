@@ -69,6 +69,14 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `13_RingOrVibrate.v`
         * ✅ `14_Thermostat.v`
         * ✅ `15_3BitPopulationCount.v`
+        * ✅ `16_GatesAndVectors.v`
+        * ✅ `17_EvenLongerVectors.v`
+      * **2. Multiplexers**
+        * ✅ `01_2To1Multiplexer.v`
+        * ✅ `02_2To1BusMultiplexer.v`
+        * ✅ `03_9To1Multiplexer.v`
+        * ✅ `04_256To1Multiplexer.v`
+        * ✅ `05_256To14BitMultiplexer.v`
       
  
   * *(More categories will be added as I progress)*
