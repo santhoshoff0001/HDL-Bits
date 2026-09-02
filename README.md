@@ -59,6 +59,17 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `04_AnotherGate.v`
         * ✅ `05_TwoGates.v`
         * ✅ `06_MoreLogicGates.v`
+        * ✅ `07_7420Chip.v`
+        * ✅ `07_7420Chip.v`
+        * ✅ `08_TruthTables.v`
+        * ✅ `09_TwoBitEquality.v`
+        * ✅ `10_SimpleCircuitA.v`
+        * ✅ `11_SimpleCircuitB.v`
+        * ✅ `12_CombineCircuitsAAndB.v`
+        * ✅ `13_RingOrVibrate.v`
+        * ✅ `14_Thermostat.v`
+        * ✅ `15_3BitPopulationCount.v`
+      
  
   * *(More categories will be added as I progress)*
 
