@@ -77,6 +77,14 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `03_9To1Multiplexer.v`
         * ✅ `04_256To1Multiplexer.v`
         * ✅ `05_256To14BitMultiplexer.v`
+      * **3. Arithmetic Circuits**
+        * ✅ `01_HalfAdder.v`
+        * ✅ `02_FullAdder.v`
+        * ✅ `03_3BitBinaryAdder.v`
+        * ✅ `04_Adder.v`
+        * ✅ `05_SignedAdditionOverflow.v`
+        * ✅ `06_100BitBinaryAdder.v`
+        * ✅ `07_4DigitBCDAdder.v`
       
  
   * *(More categories will be added as I progress)*
