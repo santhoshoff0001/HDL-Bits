@@ -85,7 +85,15 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `05_SignedAdditionOverflow.v`
         * ✅ `06_100BitBinaryAdder.v`
         * ✅ `07_4DigitBCDAdder.v`
-      
+      * **4. Karnaugh Map to Circuit**
+        * ✅ `01_3Variable.v`
+        * ✅ `02_4Variable1.v`
+        * ✅ `03_4Variable2.v`
+        * ✅ `04_4Variable3.v`
+        * ✅ `05_MinimumSOPAndPOS.v`
+        * ✅ `06_KarnaughMap1.v`
+        * ✅ `07_KarnaughMap2.v`
+        * ✅ `08_KMapImplementedWithAMultiplexer.v`
  
   * *(More categories will be added as I progress)*
 
