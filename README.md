@@ -94,6 +94,13 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `06_KarnaughMap1.v`
         * ✅ `07_KarnaughMap2.v`
         * ✅ `08_KMapImplementedWithAMultiplexer.v`
+    * **2. Sequential Logic**
+      * **Latches and Flipflops**
+        * ✅ `01_DFlipFlop.v`
+        * ✅ `02_DFlipFlops.v`
+        * ✅ `03_DFFWithReset.v`
+        * ✅ `04_DFFWithResetValue.v`
+        * ✅ `05_DFFWithAsynchronousReset.v`
  
   * *(More categories will be added as I progress)*
 
