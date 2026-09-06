@@ -101,6 +101,11 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `03_DFFWithReset.v`
         * ✅ `04_DFFWithResetValue.v`
         * ✅ `05_DFFWithAsynchronousReset.v`
+        * ✅ `06_DFFWithByteEnable.v`
+        * ✅ `07_DLatch.v`
+        * ✅ `08_DFF1.v`
+        * ✅ `09_DFF2.v`
+        * ✅ `10_DFFPlusGate.v`
  
   * *(More categories will be added as I progress)*
 
