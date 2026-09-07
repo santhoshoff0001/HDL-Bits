@@ -106,6 +106,10 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `08_DFF1.v`
         * ✅ `09_DFF2.v`
         * ✅ `10_DFFPlusGate.v`
+        * ✅ `11_MuxAndDFF1.v`
+        * ✅ `12_MuxAndDFF2.v`
+        * ✅ `13_DFFsAndGates.v`
+        * ✅ `14_CreateCircuitFromTruthTable.v`
  
   * *(More categories will be added as I progress)*
 
