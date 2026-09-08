@@ -110,6 +110,9 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `12_MuxAndDFF2.v`
         * ✅ `13_DFFsAndGates.v`
         * ✅ `14_CreateCircuitFromTruthTable.v`
+        * ✅ `15_DetectAnEdge.v`
+        * ✅ `16_DetectBothEdges.v`
+        * ✅ `17_EdgeCaptureRegister.v`
  
   * *(More categories will be added as I progress)*
 
