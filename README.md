@@ -95,7 +95,7 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `07_KarnaughMap2.v`
         * ✅ `08_KMapImplementedWithAMultiplexer.v`
     * **2. Sequential Logic**
-      * **Latches and Flipflops**
+      * **1. Latches and Flipflops**
         * ✅ `01_DFlipFlop.v`
         * ✅ `02_DFlipFlops.v`
         * ✅ `03_DFFWithReset.v`
@@ -113,6 +113,11 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `15_DetectAnEdge.v`
         * ✅ `16_DetectBothEdges.v`
         * ✅ `17_EdgeCaptureRegister.v`
+      * **2. Counters**
+        * ✅ `01_FourBitBinaryCounter.v`
+        * ✅ `02_DecadeCounter.v`
+        * ✅ `03_DecadeCounterAgain.v`
+        * ✅ `04_SlowDecadeCounter.v`
  
   * *(More categories will be added as I progress)*
 
