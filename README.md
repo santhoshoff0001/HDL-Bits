@@ -118,6 +118,7 @@ Welcome to my HDLBits repository! This folder tracks my step-by-step progress th
         * ✅ `02_DecadeCounter.v`
         * ✅ `03_DecadeCounterAgain.v`
         * ✅ `04_SlowDecadeCounter.v`
+        * ✅ `05_Counter1-12.v`
  
   * *(More categories will be added as I progress)*
 
